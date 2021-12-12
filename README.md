@@ -35,6 +35,9 @@ RGB Smart Neopixel (x6)
 
 VL53LOX ToF Distance Sensor
 
+
+
+
 Wiring:
 NEOPIXEL: + to 5V, G to GND, In to Pin 5
 LCD: 5V to 5V, RX to Pin14, TX to Pin13, GND to GND, RES to PIN29
