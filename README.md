@@ -3,15 +3,16 @@
 # Created by: Andy Huang, Aman Patel
 
 
-#Description: 
+DESCRIPTION:
+
 This project is a smart fridge prototype. This smart fridge prototype was created using a small 13-inch toolbox which models a fridge with its opening door, this small toolbox also allows users to store things inside it like a fridge would. The smart fridge prototype uses two brushless dc fan to provide cooling. Located inside the smart fridge is a temperature sensor which reads temperature readings and displays it live to an lcd screen located on the outside of the smart fridge door. This feature lets the user know what the given temperature inside the fridge is.   
 
-#Video Demo:
+VIDEO DEMO:
 
 Link: 
 
 
-#Components: 
+COMPONENTS:
 
 mbed NXP LPC1768
 
@@ -38,7 +39,7 @@ VL53LOX ToF Distance Sensor
 
 
 
-#Wiring:
+WIRING:
 
 NEOPIXEL: + to 5V, G to GND, In to Pin 5
 
