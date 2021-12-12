@@ -27,6 +27,6 @@ NEOPIXEL: + to 5V, G to GND, In to Pin 5
 LCD: 5V to 5V, RX to Pin14, TX to Pin13, GND to GND, RES to PIN29
 Barrel Jack: Closet to input(on left) to GND on MotorDriver. Furthest Away to PWMA on Power Driver. 
 Right side MotorDriver: GND to Bottom Barrel Jack, PWMB to Pin22, BIN2 to Pin17, BIN1 to PIN18, STBY to VCC, AIN1 to PIN19, AIN2 to PIN20,PWMA to Pin21.
-Left Side MotorDriver: GND to GND, BO1 to RED1, BO2 to BLACK1, AO2 to BLACK2, AO1 to RED2, VCC to VCC, VM to Top Barrel JAck. 
+Left Side MotorDriver: GND to GND, BO1 to RED1, BO2 to BLACK1, AO2 to BLACK2, AO1 to RED2, VCC to VCC, VM to Top Barrel Jack. 
 
 Check Code to Try Smart Fridge Demo: 
