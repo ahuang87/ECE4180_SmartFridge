@@ -11,16 +11,27 @@ Video Demo:
 Link: 
 
 Components: 
-mbed NXP LPC1768 
+
+mbed NXP LPC1768
+
 uLCD-144-G2 
+
 Breakout Boards (x3)
+
 Pololu md08a Motor Driver
+
 Temperature Sensor - TMP36
+
 Gdt Brushless DC Fan (x2)
+
 DC Barrel Power Jack/Connector
+
 5V Power Supply
+
 13-Inch Toolbox
+
 RGB Smart Neopixel (x6)
+
 VL53LOX ToF Distance Sensor
 
 Wiring:
