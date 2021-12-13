@@ -5,7 +5,7 @@
 
 DESCRIPTION:
 
-This project is a smart fridge prototype. This smart fridge prototype was created using a small 13-inch toolbox which models a fridge with its opening door, this small toolbox also allows users to store things inside it like a fridge would. The smart fridge prototype uses two brushless dc fan to provide cooling. Located inside the smart fridge is a temperature sensor which reads temperature readings and displays it live to an lcd screen located on the outside of the smart fridge door. This feature lets the user know what the given temperature inside the fridge is.   
+This project is a smart fridge prototype. This smart fridge prototype was created using a small 13-inch toolbox which models a fridge with its opening door, this small toolbox also allows users to store things inside it like a fridge would. The smart fridge prototype uses two dc fan to provide cooling. Located inside the smart fridge is a temperature sensor which reads temperature readings and displays it live to an lcd screen located on the outside of the smart fridge door. This feature lets the user know what the given temperature inside the fridge is.   
 
 VIDEO DEMO:
 
@@ -24,7 +24,7 @@ Pololu md08a Motor Driver
 
 Temperature Sensor - TMP36
 
-Gdt Brushless DC Fan (x2)
+Gdt DC Fan (x2)
 
 DC Barrel Power Jack/Connector
 
