@@ -10,6 +10,7 @@ This project is a smart fridge prototype. This smart fridge prototype was create
 VIDEO DEMO:
 
 Link: https://youtu.be/JHxP4089Ikg
+
 Prototype Smart Fridge Pictures: https://imgur.com/gallery/NQmfNXL
 
 
