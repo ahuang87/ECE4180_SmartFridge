@@ -41,9 +41,13 @@ VL53LOX ToF Distance Sensor
 
 WIRING:
 
+MBED1: 
+
 NEOPIXEL: + to 5V, G to GND, In to Pin 5
 
 LCD: 5V to 5V, RX to Pin14, TX to Pin13, GND to GND, RES to PIN29
+
+MBED2: 
 
 Barrel Jack: Closet to input(on left) to GND on MotorDriver. Furthest Away to PWMA on Power Driver.
 
