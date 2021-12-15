@@ -22,7 +22,7 @@ uLCD-144-G2
 
 Breakout Boards (x3)
 
-Pololu md08a Motor Driver
+Motor Driver - Dual TB6612FNG
 
 Temperature Sensor - TMP36
 
